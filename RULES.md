@@ -64,5 +64,4 @@ To install the package manager conda we refer to its [website](https://docs.cond
 
 ## M1 and M2 macos
 libigl is on conda is incompatible with ARM architecutres. You can:
-- compile the package from scratch `pip install https://github.com/libigl/libigl-python-bindings/`
-- use Colab [https://colab.research.google.com](https://colab.research.google.com)
+- `python -m pip install libigl`
