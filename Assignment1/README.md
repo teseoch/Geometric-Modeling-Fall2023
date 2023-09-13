@@ -168,7 +168,7 @@ by applying the following rules:
     vertices of the face; we call the set of this newly created faces `F''`.
     <!-- Replace the old set of faces `F` with `F''`. -->
  2. Move each vertex `v` of the old vertices `V` to a new position `p` by averaging `v` with the positions of its neighboring vertices in the *original* mesh.
-    If `v` has valence `n` and its neighbors in the original mesh `(V, F)` are `v_0`, `v_1`, ...,  `v_n`, then the update rule is<br/>
+    If `v` has valence `n` and its neighbors in the original mesh `(V, F)` are `v_0`, `v_1`, ...,  `v_{n-1}`, then the update rule is<br/>
     ![](https://latex.codecogs.com/svg.latex?p=(1-a_n)v&plus;\frac{a_n}{n}\sum\limits_{i=0}^{n-1}v_i)<br/>
     <!-- p = (1-a_n) v + \frac{a_n}{n}\sum\limits_{i=0}^{n-1} v_i -->where<br/>
     ![](https://latex.codecogs.com/svg.latex?a_n=\frac{4-2\cos\left(\frac{2\pi}{n}\right)}{9}.)<br/>
