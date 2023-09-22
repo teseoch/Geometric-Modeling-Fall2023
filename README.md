@@ -83,10 +83,10 @@ By the end of the course, the students will design, program, and analyze algorit
 [Assignment 1](Assignment1/README.md)</br>
 [Assignment 1 Slides](slides/A1%20-%20Assignment%201.pdf)
 
-<!--[Assignment 2](Assignment2/README.md)</br>
+[Assignment 2](Assignment2/README.md)</br>
 [Assignment 2 Slides](slides/A2%20-%20Assignment%202.pdf)
 
-[Assignment 3](Assignment3/README.md)</br>
+<!--[Assignment 3](Assignment3/README.md)</br>
 [Assignment 3 Slides](slides/A3%20-%20Assignment%203.pdf)
 
 [Assignment 4](Assignment4/README.md)</br>
