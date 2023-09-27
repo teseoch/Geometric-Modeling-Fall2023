@@ -66,8 +66,8 @@ By the end of the course, the students will design, program, and analyze algorit
 [03 Acquisition](slides/03%20-%20Acquisition.pdf)</br>
 [04 Meshes](slides/04%20-%20Meshes.pdf)</br>
 [05 Reconstruction](slides/05%20-%20Reconstruction.pdf)</br>
-<!--[06 Normal Estimation](slides/06%20-%20Normal%20Estimation.pdf)</br>
-[07 Curves](slides/07%20-%20Curves.pdf)</br>
+[06 Normal Estimation](slides/06%20-%20Normal%20Estimation.pdf)</br>
+<!--[07 Curves](slides/07%20-%20Curves.pdf)</br>
 [08 Surfaces](slides/08%20-%20Surfaces.pdf)</br>
 [09 Smoothing](slides/09%20-%20Smoothing.pdf)</br>
 [10 Directional Fields](slides/10%20-%20Directional%20Fields.pdf)</br>
