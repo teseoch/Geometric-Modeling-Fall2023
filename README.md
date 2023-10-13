@@ -69,8 +69,8 @@ By the end of the course, the students will design, program, and analyze algorit
 [06 Normal Estimation](slides/06%20-%20Normal%20Estimation.pdf)</br>
 [07 Curves](slides/07%20-%20Curves.pdf)</br>
 [08 Surfaces](slides/08%20-%20Surfaces.pdf)</br>
-<!--[09 Smoothing](slides/09%20-%20Smoothing.pdf)</br>
-[10 Directional Fields](slides/10%20-%20Directional%20Fields.pdf)</br>
+[09 Smoothing](slides/09%20-%20Smoothing.pdf)</br>
+<!--[10 Directional Fields](slides/10%20-%20Directional%20Fields.pdf)</br>
 [11 Single Patch Parametrization](slides/11%20-%20Single%20Patch%20Parametrization.pdf)</br>
 [12 Global Parametrization](slides/12%20-%20Global%20Parametrization.pdf)</br>
 [13 Shape Deformation](slides/13%20-%20Shape%20Deformation.pdf)</br>
