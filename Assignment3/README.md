@@ -49,7 +49,7 @@ p.add_lines(start_k_max, end_k_max, shading={"line_color": "green"})
 
 ## Smoothing with the Laplacian [11pts]
 ![](img/cow.png?raw=true)
-Input mesh, explicit smoothing lambda = 0.01 and 1000 iterations, and implicit smoothing lambda = 20 and 1 iteration.
+Input mesh, explicit smoothing lambda = 0.000001 and 1000 iterations, and implicit smoothing lambda = 0.01 and 1 iteration.
 
 
 Perform explicit and implicit Laplacian mesh smoothing. Experiment with uniform and cotangent weights. Before you begin, check out [this tutorial](https://libigl.github.io/libigl-python-bindings/tut-chapter1/#laplacian), which implements implicit smoothing.
